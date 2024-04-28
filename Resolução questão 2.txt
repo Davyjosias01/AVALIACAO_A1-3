@@ -1,0 +1,31 @@
+3 andares
+1 máquina de expresso
+cada funcionário toma 1 café por dia
+Um minuto para subir ou descer um andar
+São 3 números de entrada, a1 a2 e a3, cada um representa o número de pessoas que trabalha em cada andar
+Os números de entrada são maiores que 0 e menores que 1000
+A saída do programa deve imprimir apenas uma linha contendo o número total de minutos a serem gastos com o melhor posicionamento possível.
+
+RESOLUÇÃO
+
+1º encontre o maior valor
+
+a1 - 10
+a2 - 10 x
+a3 - 10 
+se forem todos iguais, o andar do meior é a resposta
+
+
+a1 200    
+a2 10 
+a3 300 
+Se a soma do tempo que os dois 
+
+
+a1
+a2
+a3
+
+a1
+a2
+a3
