@@ -8,24 +8,20 @@ A saída do programa deve imprimir apenas uma linha contendo o número total de 
 
 RESOLUÇÃO
 
-1º encontre o maior valor
+a1 
+a2 
+a3 
 
-a1 - 10
-a2 - 10 x
-a3 - 10 
-se forem todos iguais, o andar do meior é a resposta
+primeira = a3*4 + a2*2
+segunda = a3*2 + a1*2
+terceira = a1*4 + a2*2
 
+if (primeira < segunda){
+	resultado = primeira;
+} else {
+	resultado = segunda;
+}
 
-a1 200    
-a2 10 
-a3 300 
-Se a soma do tempo que os dois 
-
-
-a1
-a2
-a3
-
-a1
-a2
-a3
+if (segunda < resultado){
+	resultado = segunda;
+}

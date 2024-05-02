@@ -1,0 +1,7 @@
+Entrada: uma lista de pontuações obtidas pelos competidores e o número mínimo de vagas para a fase seguinte.
+
+primeira entrada: número de competidores vai de 1 a 1000
+
+segunda entrada: número mínimo de competidores classificados
+
+saída: número de classificados para a próxima fase
