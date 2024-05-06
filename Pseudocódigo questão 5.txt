@@ -1,0 +1,22 @@
+a) Calcular o valor total da compra.
+
+b) Calcular o valor médio dos itens comprados (fazer a
+média).
+
+c) Do valor total da compra separar e mostrar reais e
+centavos.
+
+d) Dos reais separar em cédulas de 100, 50, 20, 10, 5, 2
+e moedas de 1.
+
+Além disso, deve haver a implementação das seguintes
+validações:
+
+a) Ler a quantidade e o respectivo valor de produtos e
+parar a leitura quando informado valor 0 ou negativo
+para a quantidade.
+
+b) Ler o valor somente se informada quantidade válida.
+O valor deve ser validado para que seja positivo. exibir
+as informações sobre o troco conforme exemplo a seguir.
+Veja abaixo o exemplo do resultado esperado:
