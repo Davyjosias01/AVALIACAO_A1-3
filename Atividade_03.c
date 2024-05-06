@@ -1,4 +1,4 @@
-// este código deverá utilizar o 
+// este código deverá utilizar o sortInsert
 #include <stdio.h>
 
 int main(void) {
@@ -54,7 +54,6 @@ int main(void) {
     printf("%d\n", pont[j]);
   }
   */
-  
 
   // descobrindo o número de competidores classificados
   x = limite;

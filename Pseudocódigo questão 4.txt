@@ -1,0 +1,3 @@
+Entrada = um número de 4 dígitos: 1º, 2º e 3º são os números da conta, o 4º é o digito verificador
+
+digito verificador é encontrado por meio da soma dos 3 primeiros digitos ao seu inverso e multiplicado cada um pela sua ordem posicional e somado os resultados, o ultimo digito deste resultado é o verificador
